@@ -37,3 +37,12 @@ h1 {
 .SobreMim{
      font-size:20px;
 }
+
+.topnav {
+ display: flex;
+ justify-content: space-evenly;
+}
+
+.body {
+    display: flex;
+}
